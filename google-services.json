@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "757186341849",
+    "project_id": "chatvui-462a9",
+    "storage_bucket": "chatvui-462a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757186341849:android:b94157d40befc8327207c8",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757186341849-9rb61hodd49aee63abtf4f52qdtds3ml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "host.exp.exponent",
+            "certificate_hash": "45ab8062eaf0d94fe510d334219e879f0069ed77"
+          }
+        },
+        {
+          "client_id": "757186341849-f0ijj4ua3v5bgq9kk64erri8kheai4jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIilJF4y_wc85_37zfe35girB-aYomYk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757186341849-f0ijj4ua3v5bgq9kk64erri8kheai4jb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757186341849-gb6ov20pv0277lrfnr113vkep7qpdfl3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
